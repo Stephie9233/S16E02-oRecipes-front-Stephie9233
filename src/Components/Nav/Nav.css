@@ -1,0 +1,7 @@
+.header__ctn--nav {
+    width: 90%;
+    margin: 0 5%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
